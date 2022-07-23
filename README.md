@@ -1,5 +1,5 @@
 # Admission-Chances-prediction
-Creating Machine learning models to predict the ‘Chance of Admit’ with minimum Mean Squared error and Root Mean Squared Error
+Creating Machine learning models to predict the ‘TOEF Model’ with minimum Mean Squared error and Root Mean Squared Error
 and maximum R-Square score.
 Building following models 
 1. Multiple linear regressor (MLR)
